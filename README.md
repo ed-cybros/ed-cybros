@@ -2,7 +2,17 @@
 
 Currently building practical skills in **cleaning, transforming, and structuring data**, with natural tendency towards quality, correctness, and consistency.
 
-Aiming to develop a strong foundation in how to prepare data properly so it can later be used in machine learning systems. Personally, being more inclined toward data-centric approach in ML, considering that many problems in the later stages of machine learning pipelines come from messy or incomplete data.
+Aiming to develop a strong foundation in how to prepare data properly so it can later be used in machine learning systems. Personally, being more inclined toward data-centric approach to machine learning, considering that many problems in later stages of machine learning pipelines come from messy or incomplete data.
+
+## Current tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JSON](https://img.shields.io/badge/json-563d7c?style=for-the-badge&logo=json&logoColor=white)
+![Requests](https://img.shields.io/badge/requests-20232A?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Current skills
 
@@ -38,4 +48,4 @@ I am interested in how content-aware machine learning systems can improve **musi
 
 ## Working style
 
-My working style is **slow but thorough**, with attention to detail and a preference for understanding systems before extending complexity.
+My working style is **slow but thorough**, with attention to detail and a preference for understanding systems before extending their complexity.
