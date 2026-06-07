@@ -1,16 +1,41 @@
-## Hi there 👋
+# About
 
-<!--
-**ed-cybros/ed-cybros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building practical skills in **cleaning, transforming, and structuring data**, with natural tendency towards quality, correctness, and consistency.
 
-Here are some ideas to get you started:
+Aiming to develop a strong foundation in how to prepare data properly so it can later be used in machine learning systems. Personally, being more inclined toward data-centric approach in ML, considering that many problems in the later stages of machine learning pipelines come from messy or incomplete data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current skills
+
+- Cleaning and preparing raw data
+- Transforming data into structured formats
+- Checking data quality and fixing inconsistencies
+- Working with relational data and basic database design
+- Web scraping and collecting structured data
+
+Focusing on which information should be preserved, emphasized, or discarded to create useful datasets for efficient ML system building.
+
+## Direction
+
+My medium-term goal is to develop into a **data-centric machine learning** role at the intersection of data quality, feature design, and domain understanding.
+
+Long-term, to apply the acquired principles to **music data**. I aim to unite machine learning, signal processing, and human perception to derive meaningful information from complex musical signals.
+
+## Interest in domain
+
+I aim to work with music data and the music industry.
+
+My areas of interest are:
+
+- Music-related datasets and structure
+- Music information retrieval (MIR)
+- Digital signal processing (DSP)
+- Musicology
+- Recommendation and discovery systems
+
+and anything to help analyze, explore, and understand music more deeply.
+
+I am interested in how content-aware machine learning systems can improve **music discovery** and help address long-tail challenges in large music catalogs, with a special focus on learning to **identify underrepresented but high-quality content**.
+
+## Working style
+
+My working style is **slow but thorough**, with attention to detail and a preference for understanding systems before extending complexity.
