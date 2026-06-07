@@ -48,4 +48,4 @@ I am interested in how content-aware machine learning systems can improve **musi
 
 ## Working style
 
-My working style is **slow but thorough**, with attention to detail and a preference for understanding systems before extending their complexity.
+My working style is slow but thorough, with attention to detail and a **preference for understanding** systems before extending their complexity.
