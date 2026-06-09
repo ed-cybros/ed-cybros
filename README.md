@@ -48,4 +48,16 @@ I am interested in how content-aware machine learning systems can improve **musi
 
 ## Working style
 
-My working style is slow but thorough, with attention to detail and a **preference for understanding** systems before extending their complexity.
+My working style is deliberate and thorough, as I repeatedly find myself gravitating towards understanding, correctness, efficiency, and clarity. I am naturally inclined toward **constraint-driven, minimalistic problem-solving**:
+
+* Assess what is available
+
+* Understand the constraints
+
+* Use existing tools as effectively as possible
+
+* Add complexity when justified
+
+## Learning style
+
+I learn best through purposeful projects that sit just beyond my current level of understanding and require learning through **practical implementation**.
