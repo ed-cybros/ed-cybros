@@ -32,7 +32,7 @@ Long-term, to apply the acquired principles to **music data**. I aim to unite ma
 
 ## Interest in domain
 
-I aim to work with music data and the music industry.
+I aim to work with **music data** and the music industry.
 
 My areas of interest are:
 
