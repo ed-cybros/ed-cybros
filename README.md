@@ -66,4 +66,4 @@ My working style is deliberate and thorough, as I repeatedly find myself gravita
 
 ## Learning style
 
-I learn best through purposeful projects that sit just beyond my current level of understanding and require learning through **practical implementation**.
+Learn best through purposeful projects that sit just beyond my current level of understanding and require learning through **practical implementation**.
