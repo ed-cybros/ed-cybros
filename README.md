@@ -46,6 +46,12 @@ and anything to help analyze, explore, and understand music more deeply.
 
 I am interested in how content-aware machine learning systems can improve **music discovery** and help address long-tail challenges in large music catalogs, with a special focus on learning to **identify underrepresented but high-quality content**.
 
+## Motivation
+
+**Professional:** I want to help connect the underrepresented high-quality musical content with its audience.
+
+**Personal:** I want to understand music more deeply, and I want machines to help with that understanding.
+
 ## Working style
 
 My working style is deliberate and thorough, as I repeatedly find myself gravitating towards understanding, correctness, efficiency, and clarity. I am naturally inclined toward **constraint-driven, minimalistic problem-solving**:
@@ -61,7 +67,3 @@ My working style is deliberate and thorough, as I repeatedly find myself gravita
 ## Learning style
 
 I learn best through purposeful projects that sit just beyond my current level of understanding and require learning through **practical implementation**.
-
-# One-line summary
-
-I want to understand music more deeply, and I want machines to help with that understanding.
