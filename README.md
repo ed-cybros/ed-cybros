@@ -48,7 +48,7 @@ I am interested in how content-aware machine learning systems can improve **musi
 
 ## Motivation
 
-**Professional:** I want to help connect the underrepresented high-quality musical content with its audience.
+**Professional:** I want to help connect underrepresented high-quality musical content with its audience.
 
 **Personal:** I want to understand music more deeply, and I want machines to help with that understanding.
 
