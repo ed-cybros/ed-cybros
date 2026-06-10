@@ -64,6 +64,11 @@ My working style is deliberate and thorough, as I repeatedly find myself gravita
 
 * Add complexity when justified
 
-## Learning style
+## Learning Style
 
-Learn best through purposeful projects that sit just beyond my current level of understanding and require learning through **practical implementation**.
+I do not learn particularly well through artificial exercises alone. After familiarizing myself with new concepts and working through basic exercises, I find myself most engaged in practicing them when there is something concrete and practically useful to direct them toward. Once such problem is found, my mind begins naturally organizing itself around solving it.
+
+I also enjoy tackling problems that sit just beyond my current level of understanding or skill.
+
+
+
