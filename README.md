@@ -1,6 +1,6 @@
 # About
 
-Currently building practical skills in **cleaning, transforming, and structuring data**, with a natural tendency towards quality, correctness, and consistency.
+Currently building practical skills in **cleaning, transforming, and structuring data**, with a natural tendency towards correctness, quality, and consistency.
 
 Aiming to develop a strong foundation in how to prepare data properly so it can later be used in machine learning systems. Personally, being more inclined toward data-centric approach to machine learning, considering that many problems in later stages of machine learning pipelines come from messy or incomplete data.
 
