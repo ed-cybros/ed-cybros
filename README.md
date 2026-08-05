@@ -73,7 +73,7 @@ The focus is on **music data** work and developing into a **data-centric machine
 
 The long-term goal that guides current progression and shapes skill build-up is moving towards **content-aware machine learning systems** and understanding how they can improve **music discovery** to help **identify underrepresented but high-quality content** and address **the long-tail problem** in large music catalogs.
 
-## Interest in domain
+## Interest in Domain
 
 - Music-data work
 - Music information retrieval (MIR)
