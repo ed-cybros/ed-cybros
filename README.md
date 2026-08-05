@@ -82,7 +82,7 @@ The long-term goal that guides current progression and shapes skill build-up is 
 - Recommendation and discovery systems
 - Synthesis of data analysis, machine learning, signal processing, and human perception
 
-Gradually introduced to the knowledge stack.
+Gradually incorporated into the knowledge stack.
 
 ## Motivation
 
