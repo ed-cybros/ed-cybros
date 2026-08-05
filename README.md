@@ -24,7 +24,7 @@ Aiming to develop a strong foundation in how to prepare data properly so it can 
 
 With the focus on data analytics for better decision-making regarding which information should be preserved, emphasized, or discarded to create relevant and optimized datasets for subsequent pipeline stages.
 
-## Applied Data Projects
+## Applied data projects
 
 ### Data Extraction & Ingestion
 
@@ -73,7 +73,7 @@ The focus is on **music data** work and developing into a **data-centric machine
 
 The long-term goal that guides current progression and shapes skill build-up is moving towards **content-aware machine learning systems** and understanding how they can improve **music discovery** to help **identify underrepresented but high-quality content** and address **the long-tail problem** in large music catalogs.
 
-## Interest in Domain
+## Interest in domain
 
 - Music-data work
 - Music information retrieval (MIR)
