@@ -20,9 +20,9 @@ Aiming to develop a strong foundation in how to prepare data properly so it can 
 - Transforming data into structured formats
 - Checking data quality and fixing inconsistencies
 - Working with relational data and basic database design
-- Web scraping and collecting structured data
+- Web scraping and collecting structured and semistructured data
 
-Focusing on which information should be preserved, emphasized, or discarded to create useful datasets for efficient ML system building.
+With the focus on data analytics for better decision-making regarding which information should be preserved, emphasized, or discarded to create relevant and optimized datasets for subsequent pipeline stages.
 
 ## Applied Data Projects
 
@@ -69,41 +69,33 @@ Focusing on which information should be preserved, emphasized, or discarded to c
 
 ## Direction
 
-My medium-term goal is to develop into a **data-centric machine learning** role at the intersection of data quality, feature design, and domain understanding.
+The focus is on **music data** work and developing into a **data-centric machine learning** role. 
 
-Long-term, to apply the acquired principles to **music data**. I aim to unite machine learning, signal processing, and human perception to derive meaningful information from complex musical signals.
+The long-term goal that guides current progression and shapes skill build-up is moving towards **content-aware machine learning systems** and understanding how they can improve **music discovery** to help **identify underrepresented but high-quality content** and address **the long-tail problem** in large music catalogs.
 
 ## Interest in domain
 
-I aim to work with **music data** and the music industry.
-
-My areas of interest are:
-
-- Music-related datasets and structure
+- Music-data work
 - Music information retrieval (MIR)
 - Digital signal processing (DSP)
 - Musicology
 - Recommendation and discovery systems
+- Synthesis of data analysis, machine learning, signal processing, and human perception
 
-and anything to help analyze, explore, and understand music more deeply.
-
-I am interested in how content-aware machine learning systems can improve **music discovery** and help address long-tail challenges in large music catalogs, with a special focus on learning to **identify underrepresented but high-quality content**.
-
-## Working style
-
-My working style is deliberate and thorough, as I repeatedly find myself gravitating towards understanding, correctness, efficiency, and clarity. I am naturally inclined toward **constraint-driven, minimalistic problem-solving**:
-
-* Assess what is available
-
-* Understand the constraints
-
-* Use existing tools as effectively as possible
-
-* Add complexity when justified
+Gradually introduced to the knowledge stack.
 
 ## Motivation
 
-**Professional:** I want to help connect underrepresented high-quality musical content with its audience.
+- Deeper understanding of music itself and the science behind it (including the psychological impact it possesses).
+- Connecting underrepresented high-quality musical content with its audience.
+- Meaningful application of natural abilities.
+  
+## Working style
 
-**Personal:** I want to understand music more deeply, and I want machines to help with that understanding.
+Deliberate and thorough. Gravitating toward understanding, correctness, efficiency, and clarity. Constraint-driven, minimalistic problem-solving.
 
+## Additional Info
+
+- Auto-didact
+- Part-time / Freelance / Contract
+- Lower rates / Experience driven
