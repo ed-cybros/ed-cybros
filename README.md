@@ -94,7 +94,7 @@ Gradually introduced to the knowledge stack.
 
 Deliberate and thorough. Gravitating toward understanding, correctness, efficiency, and clarity. Constraint-driven, minimalistic problem-solving.
 
-## Additional Info
+## Additional info
 
 - Auto-didact
 - Part-time / Freelance / Contract
