@@ -26,6 +26,15 @@ With the focus on data analytics for better decision-making regarding which info
 
 ## Applied data projects
 
+### Music Data Preparation
+
+**[Music Data Preparation Pipeline](https://github.com/ed-cybros/Music-Data-Preparation-Pipeline-Python-Only---Polished-Version)**
+
+* Applied a Python data preparation pipeline to a synthetically corrupted music dataset.
+* Investigated missing, inconsistent, duplicate, and domain-specific values with emphasis on information preservation and justified transformations.
+* Validated transformations and structured track-level data into an artist-level dataset containing average popularity, average BPM, and most frequent genre.
+* Exported the resulting structure as JSON.
+
 ### Data Extraction & Ingestion
 
 **[TES Alchemy Parser 1.0](https://github.com/ed-cybros/tes-alchemy-parser-v1.0)**
