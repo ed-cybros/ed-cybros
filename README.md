@@ -4,6 +4,8 @@ Currently building practical skills in **cleaning, transforming, and structuring
 
 Aiming to develop a strong foundation in how to prepare data properly so it can later be used in machine learning systems. I am particularly inclined toward a data-centric approach to machine learning, as many challenges in later stages of machine learning pipelines originate from messy, incomplete, or poorly structured data.
 
+Interested in applying data quality, music metadata, and machine learning to problems where accurate representation of music content affects downstream analysis, discovery, and attribution.
+
 ## Current tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
