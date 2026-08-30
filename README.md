@@ -22,9 +22,9 @@ Interested in applying data quality, music metadata, and machine learning to pro
 - Transforming data into structured formats
 - Checking data quality and fixing inconsistencies
 - Working with relational data and basic database design
-- Web scraping and collecting structured and semistructured data
+- Web scraping and collecting structured and semi-structured data
 
-With the focus on data analytics for better decision-making regarding which information should be preserved, emphasized, or discarded to create relevant and optimized datasets for subsequent pipeline stages.
+Focused on analyzing data to make informed decisions about which information should be preserved, emphasized, or discarded when preparing relevant datasets for subsequent pipeline stages.
 
 ## Applied data projects
 
@@ -74,7 +74,7 @@ With the focus on data analytics for better decision-making regarding which info
 **TES Alchemy Parser 2.0**
 
 * Introduced JSON as an intermediate transformation layer.
-* Designed a normalized SQLite database with many-to-many relationship to store transformed data.
+* Designed a normalized SQLite database with many-to-many relationships to store transformed data.
 * Provided flexible querying and data exploration.
 * Performed integrity checks to verify database consistency.
 
@@ -107,6 +107,6 @@ Deliberate and thorough. Gravitating toward understanding, correctness, efficien
 
 ## Additional info
 
-- Auto-didact
+- Self-taught
 - Part-time / Freelance / Contract
 - Lower rates / Experience driven
