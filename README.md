@@ -108,5 +108,5 @@ Deliberate and thorough. Gravitating toward understanding, correctness, efficien
 ## Additional info
 
 - Self-taught
-- Part-time / Freelance / Contract
+- Part-time / Freelance / Contract / Remote
 - Lower rates / Experience driven
