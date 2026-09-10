@@ -1,10 +1,7 @@
 # About
 
-Currently building practical skills in **cleaning, transforming, and structuring data**, with a natural tendency towards correctness, quality, and consistency.
-
-Aiming to develop a strong foundation in how to prepare data properly so it can later be used in machine learning systems. I am particularly inclined toward a data-centric approach to machine learning, as many challenges in later stages of machine learning pipelines originate from messy, incomplete, or poorly structured data.
-
-Interested in applying data quality, music metadata, and machine learning to problems where accurate representation of music content affects downstream analysis, discovery, and attribution.
+**Cleaning, transforming, and structuring data**. 
+Natural tendency towards correctness, quality, and consistency. Interested in problems where accurate representation of data content affects downstream ML pipelines (data-centric approach). **Music data.**
 
 ## Current tools
 
@@ -24,7 +21,7 @@ Interested in applying data quality, music metadata, and machine learning to pro
 - Working with relational data and basic database design
 - Web scraping and collecting structured and semi-structured data
 
-Focused on analyzing data to make informed decisions about which information should be preserved, emphasized, or discarded when preparing relevant datasets for subsequent pipeline stages.
+Focused on analyzing data and domain research **(music data)** to make informed decisions about which information should be preserved, emphasized, or discarded when preparing relevant datasets for subsequent pipeline stages.
 
 ## Applied data projects
 
@@ -82,16 +79,16 @@ Focused on analyzing data to make informed decisions about which information sho
 
 The focus is on **music data** work and developing into a **data-centric machine learning** role. 
 
-The long-term goal that guides current progression and shapes skill build-up is moving towards **content-aware machine learning systems** and understanding how they can improve **music discovery** to help **identify underrepresented but high-quality content** and address **the long-tail problem** in large music catalogs.
+The long-term goal that guides current progression and shapes skill build-up is moving toward **content-aware machine learning systems** and understanding how they can improve **music discovery** to help **identify underrepresented but high-quality content** and address **the long-tail problem** in large music catalogs.
 
 ## Interest in domain
 
-- Music-data work
+- Music-data
 - Music information retrieval (MIR)
 - Digital signal processing (DSP)
 - Musicology
 - Recommendation and discovery systems
-- Synthesis of data analysis, machine learning, signal processing, and human perception
+- Synthesis of data analysis, machine learning, signal processing, and human perception,
 
 Gradually incorporated into the knowledge stack.
 
@@ -108,5 +105,5 @@ Deliberate and thorough. Gravitating toward understanding, correctness, efficien
 ## Additional info
 
 - Self-taught
-- Open to remote part-time, freelance, and contract opportunities
-- Focused on practical experience
+- Open to part-time, freelance, and contract opportunities
+- Remote / International
