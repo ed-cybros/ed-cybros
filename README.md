@@ -1,7 +1,7 @@
 # About
 
 **Cleaning, transforming, and structuring data**. 
-Natural tendency towards correctness, quality, and consistency. Interested in problems where accurate representation of data content affects downstream ML pipelines (data-centric approach). **Music data.**
+Natural tendency towards correctness, quality, and consistency. Interested in problems where accurate representation of data content affects downstream ML pipelines (data-centric approach). **Interested in music data.**
 
 ## Current tools
 
